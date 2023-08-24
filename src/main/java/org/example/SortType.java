@@ -1,2 +1,8 @@
-package org.example;public class SortType {
+package org.example;
+
+public enum SortType {
+
+    Ascending,
+    Descending
+
 }
